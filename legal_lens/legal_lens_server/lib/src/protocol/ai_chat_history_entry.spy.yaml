@@ -1,0 +1,4 @@
+class: AiChatHistoryEntry
+fields:
+  role: String
+  text: String

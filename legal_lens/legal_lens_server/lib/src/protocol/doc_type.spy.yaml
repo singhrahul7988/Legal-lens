@@ -1,0 +1,7 @@
+enum: DocType
+values:
+  - general
+  - rental_agreement
+  - medical_bill
+  - employment_offer
+  - consumer_complaint

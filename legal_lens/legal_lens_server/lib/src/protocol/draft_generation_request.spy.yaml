@@ -1,0 +1,7 @@
+class: DraftGenerationRequest
+fields:
+  draftType: String
+  jurisdiction: String
+  keyParties: String
+  keyTerms: String
+  additionalInstructions: String?

@@ -1,0 +1,9 @@
+class: AiChatRequest
+fields:
+  userInput: String
+  contextId: String?
+  sessionId: String?
+  docId: int?
+  language: String?
+  newDocContent: String?
+  newDocName: String?

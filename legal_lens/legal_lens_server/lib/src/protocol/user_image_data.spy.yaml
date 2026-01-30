@@ -1,0 +1,6 @@
+class: UserImageData
+table: user_image_data
+fields:
+  userId: UuidValue
+  data: String # Base64 data
+  mimeType: String

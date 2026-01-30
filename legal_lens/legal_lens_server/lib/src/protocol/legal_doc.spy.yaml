@@ -1,0 +1,17 @@
+class: LegalDoc
+table: legal_doc
+fields:
+  userId: UuidValue
+  sessionId: String?
+  title: String
+  originalFileUrl: String?
+  content: String?
+  summary: String?
+  analysisJson: String?
+  status: DocStatus
+  type: DocType
+  createdAt: DateTime
+  updatedAt: DateTime
+indexes:
+  session_idx:
+    fields: sessionId

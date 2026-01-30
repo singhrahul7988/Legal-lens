@@ -1,0 +1,6 @@
+class: AiChatResponse
+fields:
+  userInputCopy: String
+  aiResponse: String
+  suggestedFollowups: List<String>
+  contextId: String

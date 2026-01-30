@@ -1,0 +1,21 @@
+emailIdp:
+  - login:
+  - startRegistration:
+  - verifyRegistrationCode:
+  - finishRegistration:
+  - startPasswordReset:
+  - verifyPasswordResetCode:
+  - finishPasswordReset:
+jwtRefresh:
+  - refreshAccessToken:
+ai:
+  - chat:
+  - generateDraft:
+document:
+  - createDocument:
+  - analyzeDocument:
+  - getDocumentsBySession:
+userImage:
+  - updateUserImage:
+  - getProfileImageUrl:
+  - removeUserImage:

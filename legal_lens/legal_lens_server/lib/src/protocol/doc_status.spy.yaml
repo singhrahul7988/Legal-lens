@@ -1,0 +1,6 @@
+enum: DocStatus
+values:
+  - pending
+  - processing
+  - completed
+  - failed

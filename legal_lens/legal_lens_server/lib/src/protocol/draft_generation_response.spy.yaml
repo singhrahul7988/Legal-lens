@@ -1,0 +1,4 @@
+class: DraftGenerationResponse
+fields:
+  content: String
+  title: String
